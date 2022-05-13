@@ -26,7 +26,7 @@ void setup() {
   Keyboard.releaseAll();
   delay(1000);
 
-  // Authorise using credentials
+  // Authorise UAC
   Keyboard.press(KEY_LEFT_ARROW);
   Keyboard.release(KEY_LEFT_ARROW);
   Keyboard.press(KEY_RETURN);
