@@ -45,6 +45,8 @@ If the hardware you want to target is particularly slow, you might want to look 
 Do not, however, make them to low, as it can cause the text to be written before run is ready. Too little delay between keystrokes in the string could cause the order to be wrong, or some keystrokes to be dropped.
 
 Optionally, you can add a reboot at the end, by opening run again after a wait, and entering the following command followed by an enter. This will cause the effect to start immediately.
+
+You can of course replace GeoGebra with any website of your choice, or even another executable on the computer.
 ```
 shutdown -t 0 -r
 ```
