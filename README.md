@@ -66,3 +66,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v Shell /t
 ```
 shutdown -t 0 -r
 ```
+
+And remeber, never leave your computer unlocked and untattended.
+
+It is good practise to always lock it before leaving it. Simply hit <kbd>WIN</kbd> + <kbd>L</kbd>.
